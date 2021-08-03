@@ -44,3 +44,10 @@ A generic method is declared with type parameters. A type parameter is a placeho
 For example, [`IEnumerable<T>`](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.ienumerable-1?view=net-5.0) is declared with a Type Parameter T, and [in this example](https://github.com/natstar93/Generics/blob/master/IEnumerable.cs) I have specified the types int and string like this ` IEnumerable<int>` ` IEnumerable<string>`.
 
 In the [PizzaShop](https://github.com/natstar93/PizzaShop/blob/master/Startup.cs#L39) I am using the AddTransient method and declaring the custom types IPizzaRepo and PizzaRepo. 
+
+
+## 3/8/21
+
+**Tasks:**
+* Practical: Implement POST endpoint for Pizza shop. Discussion on best appraoch to organising endpoints in next session
+* Theory: Read about iDisposable (and finalisers if time)
