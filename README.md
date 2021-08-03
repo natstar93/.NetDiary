@@ -15,6 +15,8 @@ A timeline of topics covered in mentoring sessions and homework tasks
 
 Created basic [PizzaShop API](https://github.com/natstar93/PizzaShop/commit/376853406344bb1e06064fea280e8b721b4a26d5) with GET endpoint that creates new PizzaOrders and displays them
 
+Listed MVP ideas and future requirements on README
+
 Read about IOC containers and dependency injection. It would be good to get started on a concrete example since it's all a bit abstract to me at the moment :) 
 
 ## 22/7/21
