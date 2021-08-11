@@ -51,3 +51,6 @@ In the [PizzaShop](https://github.com/natstar93/PizzaShop/blob/master/Startup.cs
 **Tasks:**
 * Practical: Implement POST endpoint for Pizza shop. Discussion on best appraoch to organising endpoints in next session
 * Theory: Read about iDisposable (and finalisers if time)
+
+## 11/8/21
+https://github.com/natstar93/TodoApi
